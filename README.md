@@ -20,9 +20,8 @@ You must create a Spotify app on the [Spotify Developer Dashboard](https://devel
 
 - **Client ID**  
 - **Client Secret**  
-:contentReference[oaicite:0]{index=0}  
 
-Use these credentials securely (e.g. via a `.env` file) to authenticate using the *Client Credentials* flow for backend access.:contentReference[oaicite:1]{index=1}
+Use these credentials securely (e.g. via a `.env` file) to authenticate using the *Client Credentials* flow for backend access.
 
 ---
 
