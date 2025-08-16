@@ -1,0 +1,7 @@
+*.py linguist-detectable=true
+*.sql linguist-detectable=true
+*.sh linguist-detectable=true
+
+*.csv linguist-vendored
+*.txt linguist-vendored
+*.md linguist-documentation
